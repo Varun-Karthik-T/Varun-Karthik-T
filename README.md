@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varun-Karthik-T
-- 👀 I’m interested in Web Development and Product Building
+- 👀 I’m interested in Web Development and Product Development
 - 🌱 I’m currently learning App Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varun-karthik-t-663268262/)
 
