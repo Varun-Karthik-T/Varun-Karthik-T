@@ -8,6 +8,12 @@
   <a href="https://github.com/Varun-Karthik-T" style="text-decoration: none; flex: 1;height:100%">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Varun-Karthik-T&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,C%2B%2B,CMake&theme=dark" alt="Top Languages" style="width: 400px;"/>
   </a>
+<div align="center">
+<p>profile view count from Dec 2024</p>
+  <img src="https://profile-counter.glitch.me/Varun-Karthik-T/count.svg?"  />
+</div>
+
+###
 </div>
 
 <!---
