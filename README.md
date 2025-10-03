@@ -1,5 +1,28 @@
-- 👋 Hi, I’m @Varun-Karthik-T
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varun-karthik-t-663268262/)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+<div align="center">
+👋 Hi, I’m @Varun-Karthik-T
+</div>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
+  <a href="mailto:varunkarthikceg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/varun-karthik-t-663268262/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="https://leetcode.com/u/Varunkarthik13/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&label=&color=E2C347&labelColor=&style=for-the-badge" height="40" alt="leetcode logo"  />
+  </a>
+</div>
+
+###
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 20px;">
   <a href="https://github.com/Varun-Karthik-T" style="text-decoration: none; margin-right: 20px; flex: 1;">
