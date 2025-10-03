@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhtbWtrZGRwNm01Zjg2amRjYnFoNWRkbG9leWs1YWs0bWxvNTEyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 </div>
 
 <div align="center">
@@ -22,6 +22,9 @@
   </a>
 </div>
 
+  
+
+
 ###
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 20px;">
@@ -32,7 +35,9 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Varun-Karthik-T&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,C%2B%2B,CMake&theme=dark" alt="Top Languages" style="width: 400px;"/>
   </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-karthik-t&label=Profile%20views&color=0e75b6&style=flat" alt="varun-karthik-t" /> </p>
+  <div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-karthik-t&label=Profile%20views&color=0e75b6&style=flat" alt="varun-karthik-t" /> </p>
+</div>
 
 
 
